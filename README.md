@@ -1,1 +1,2 @@
-# id-say-its-pretty-much-a-repository-of-mine
+# you either love it, or not love it
+# but believe me, you''ll hopefully do 
